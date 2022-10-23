@@ -1,4 +1,4 @@
-# NHL-Elo-Leaderboard
+# NHL Elo Leaderboard
 Introductory Web Scraping + Rating Systems Project.
 
 The code scrapes data from NHL's stats website and inputs each game into a simple formula that returns an Elo rating for each team, and outputs the table into a .csv file.
